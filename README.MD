@@ -6,7 +6,7 @@ Tries to fetch a meaningful word from a string of jumbled letters.
 
 ## How does it do what it does
 
-Fetches all permutations of the provided string. Looks for spell check to identify meaningful words.   
+BruteForce. Fetches all permutations of the provided string. Looks for spell check to identify meaningful words.   
 
 ## Execute,
 

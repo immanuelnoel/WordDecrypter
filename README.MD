@@ -13,3 +13,15 @@ Fetches all permutations of the provided string. Looks for spell check to identi
 -   docker build -t decrypter .    
    
 -   docker run --rm -ti -v ${pwd}/src:/src decrypter python decrypt.py {search}   
+
+## Sample Output,
+
+docker run --rm -ti -v ${pwd}/src:/src decrypter python decrypt.py onjes    
+Please wait while we compute and show the final suggestions    
+jones    
+jones    
+jones    
+    
+    
+Final Suggestions!    
+jones    

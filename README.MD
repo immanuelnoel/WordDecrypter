@@ -2,7 +2,7 @@
 
 ## What it does
 
-Tries to fetch a meaningful word from a string of jumbled letters.   
+Tries to fetch a meaningful word from a string of jumbled letters. Wrote this up in a few minutes to beat my dad at a puzzle ;)   
 
 ## How does it do what it does
 
